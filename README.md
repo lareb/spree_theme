@@ -9,7 +9,7 @@ Installation
 Add spree_theme to your Gemfile:
 
 ```ruby
-gem 'spree_theme'
+gem 'spree_theme', github: 'rekhadhakad/spree_theme'
 ```
 
 Bundle your dependencies and run the installation generator:
